@@ -10,7 +10,7 @@ Probando cambios.
 
 ```git status``` 
 
-```git add```add changes before commit
+```git add``` add changes before commit
 
 ```git commit -m ""``` save changes with message
 

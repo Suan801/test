@@ -6,6 +6,10 @@ Texto de prueba: Mandarina.
 
 Probando cambios.
 
+```git log --oneline``` log
+
+```git restore --source "hash" "filename"``` restore old versions
+
 ```git pull``` sync local to remote
 
 ```git status``` 

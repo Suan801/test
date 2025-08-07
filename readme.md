@@ -7,7 +7,11 @@ Texto de prueba: Mandarina.
 Probando cambios.
 
 ```git pull``` sync local to remote
+
 ```git status``` 
+
 ```git add```add changes before commit
+
 ```git commit -m ""``` save changes with message
+
 ```git push``` send changes to the cloud
